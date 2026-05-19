@@ -10,3 +10,5 @@ Does this make me an artist now? Think I can add “artist” to my LinkedIn?
 
 …maybe next time they should hire a coder instead. We’d do it quicker. And cheaper 
 
+See it in action here https://themadhacker.online/a_year_of_code/week2_datascape/
+
